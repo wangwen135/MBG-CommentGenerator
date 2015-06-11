@@ -23,8 +23,8 @@
 		<property name="beginningDelimiter" value="`" />
 		<property name="endingDelimiter" value="`" />
 		<!-- 指定文件编码 -->
-		<property name="javaFileEncoding" value="UTF-8"/>
-		
+		<property name="javaFileEncoding" value="UTF-8" />
+
 
 		<!-- 抑制警告 -->
 		<property name="suppressTypeWarnings" value="true" />
