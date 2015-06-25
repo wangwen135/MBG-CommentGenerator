@@ -34,9 +34,7 @@
 			/> -->
 		<!-- generate entity时，生成serialVersionUID -->
 		<plugin type="org.mybatis.generator.plugins.SerializablePlugin" />
-		<!-- 这个插件只会增加字符串字段映射到一个JDBC字符的方法 -->
-		<!-- <plugin type="org.mybatis.generator.plugins.CaseInsensitiveLikePlugin" 
-			/> -->
+		
 		<!-- genenat entity时,生成toString -->
 		<plugin type="org.mybatis.generator.plugins.ToStringPlugin" />
 
